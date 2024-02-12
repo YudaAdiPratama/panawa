@@ -1,7 +1,7 @@
 {
-  "name": "My NFT",
+  "name": "Panda",
   "description": "An example ERC-721 token",
-  "image": "https://example.com/api/token/1/image.jpg",
+  "image": "https://raw.githubusercontent.com/YudaAdiPratama/panawa/main/image/0x25c.png",
   "external_url": "https://example.com/api/token/1",
   "attributes": [
     {
