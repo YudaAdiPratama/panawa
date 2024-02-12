@@ -1,0 +1,16 @@
+{
+  "name": "My NFT",
+  "description": "An example ERC-721 token",
+  "image": "https://example.com/api/token/1/image.jpg",
+  "external_url": "https://example.com/api/token/1",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    }
+  ]
+}
